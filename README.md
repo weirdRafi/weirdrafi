@@ -1,9 +1,9 @@
-(https://i.ibb.co/NgR0L29/Mazharul-islam.png)
+![I'm a Frontend Web Developer](https://i.ibb.co/NgR0L29/Mazharul-islam.png)
 
 
 ### Hi there 👋, my name is Mazharul 
 #### I'm a Frontend Web Developer
-![I'm a Frontend Web Developer]
+
 Hi, I’m Mazharul Islam. I’m a Frontend web Developer. Experiences javascript, React js. I never stop until solve a problem. And love to finish any work efficiently Learning more skills to update me more in future node js, express js, mongoDB & improving MERN stack development.
 
 Skills: REACT / JS / HTML / CSS / TAILWIND CSS
