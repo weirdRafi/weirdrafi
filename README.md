@@ -12,7 +12,12 @@ Skills: REACT / JS / HTML / CSS / TAILWIND CSS
 - 👯 I’m looking to collaborate on Github 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/weirdrafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/weirdrafi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/poindexter__21/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rafi_mazharul)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rafi_mazharul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafi_mazharul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rafimazharul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafimazharul" height="30" width="40" /></a>
+<a href="https://instagram.com/poindexter__21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="poindexter__21" height="30" width="40" /></a>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weirdrafi)](https://github.com/anuraghazra/github-readme-stats)
 
